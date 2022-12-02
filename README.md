@@ -3,7 +3,6 @@ Multiplayer chess game
 
 Manual multiplayer chess game.
 
-Implemented in python
+Implemented in python using tkinter gui
 
-Prerequisites
-* Tkinter
+
